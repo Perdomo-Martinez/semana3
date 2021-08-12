@@ -18,6 +18,7 @@ namespace semana3
         ///bucles
         public static void loops()
         {
+
             int[] numbers = new int[3];
             numbers[0] = 5;
             numbers[1] = 10;
